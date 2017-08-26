@@ -8,5 +8,5 @@ This project was initiated for an opportunity to work on deep learning using pre
 * Numpy
 * Bcolz
 * Matplotlib
-# Credits
+# Refrence
 [Fast.ai - Part1](http://course.fast.ai/)
